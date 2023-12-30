@@ -1,0 +1,5 @@
+<danh_sach_sinh_vien>
+    <sinh_vien ma_sinh_vien="SV001" ten_sinh_vien="Nguyễn Văn A" nam_sinh="1999" lop="CNTT1" gioi_tinh="Nam"/>
+    <sinh_vien ma_sinh_vien="SV002" ten_sinh_vien="Trần Thị B" nam_sinh="2000" lop="CNTT2" gioi_tinh="Nữ"/>
+    <sinh_vien ma_sinh_vien="SV003" ten_sinh_vien="Lê Văn C" nam_sinh="1998" lop="CNTT3" gioi_tinh="Nam"/>
+</danh_sach_sinh_vien>

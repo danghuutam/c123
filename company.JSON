@@ -1,0 +1,129 @@
+{
+    "name": "Công ty TNHH Đất Việt",
+    "address": "abc Giải Phóng - Hà Nội",
+    "total_employees": 200,
+    "units": [
+        {
+            "name": "Đơn vị A1",
+            "manager": "Nguyễn Văn A"
+        },
+        {
+            "name": "Đơn vị A2",
+            "manager": "Trần Thị B"
+        },
+        {
+            "name": "Đơn vị A3",
+            "manager": "Lê Văn C"
+        },
+        {
+            "name": "Đơn vị A4",
+            "manager": "Phạm Thị D"
+        },
+        {
+            "name": "Đơn vị A5",
+            "manager": "Hoàng Văn E"
+        }
+    ],
+    "employees": [
+        {
+            "name": "Nguyễn Văn A",
+            "unit": "Đơn vị A1",
+            "salary": 10
+        },
+        {
+            "name": "Trần Thị B",
+            "unit": "Đơn vị A2",
+            "salary": 9
+        },
+        {
+            "name": "Lê Văn C",
+            "unit": "Đơn vị A3",
+            "salary": 8
+        },
+        {
+            "name": "Phạm Thị D",
+            "unit": "Đơn vị A4",
+            "salary": 7
+        },
+        {
+            "name": "Hoàng Văn E",
+            "unit": "Đơn vị A5",
+            "salary": 6
+        },
+        {
+            "name": "Nguyễn Thị F",
+            "unit": "Đơn vị A1",
+            "salary": 5
+        },
+        {
+            "name": "Trần Văn G",
+            "unit": "Đơn vị A2",
+            "salary": 4
+        },
+        {
+            "name": "Lê Thị H",
+            "unit": "Đơn vị A3",
+            "salary": 3
+        },
+        {
+            "name": "Phạm Văn I",
+            "unit": "Đơn vị A4",
+            "salary": 2
+        },
+        {
+            "name": "Hoàng Thị J",
+            "unit": "Đơn vị A5",
+            "salary": 1
+        },
+        {
+            "name": "Nguyễn Văn K",
+            "unit": "Đơn vị A1",
+            "salary": 10
+        },
+        {
+            "name": "Trần Thị L",
+            "unit": "Đơn vị A2",
+            "salary": 9
+        },
+        {
+            "name": "Lê Văn M",
+            "unit": "Đơn vị A3",
+            "salary": 8
+        },
+        {
+            "name": "Phạm Thị N",
+            "unit": "Đơn vị A4",
+            "salary": 7
+        },
+        {
+            "name": "Hoàng Văn O",
+            "unit": "Đơn vị A5",
+            "salary": 6
+        },
+        {
+            "name": "Nguyễn Thị P",
+            "unit": "Đơn vị A1",
+            "salary": 5
+        },
+        {
+            "name": "Trần Văn Q",
+            "unit": "Đơn vị A2",
+            "salary": 4
+        },
+        {
+            "name": "Lê Thị R",
+            "unit": "Đơn vị A3",
+            "salary": 3
+        },
+        {
+            "name": "Phạm Văn S",
+            "unit": "Đơn vị A4",
+            "salary": 2
+        },
+        {
+            "name": "Hoàng Thị T",
+            "unit": "Đơn vị A5",
+            "salary": 1
+        }
+    ]
+}
